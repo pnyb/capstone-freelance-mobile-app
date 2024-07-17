@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "408535442183",
+    "project_id": "thesis-flexedfitness-727c9",
+    "storage_bucket": "thesis-flexedfitness-727c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408535442183:android:d775efad4123c310f89ba2",
+        "android_client_info": {
+          "package_name": "com.example.flexedfitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408535442183-skca3rsrveapb22lerherme4b2i9a8v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrU6O16IPqcASbsVujPI-mnBbNtFCKzYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408535442183-skca3rsrveapb22lerherme4b2i9a8v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
